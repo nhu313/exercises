@@ -1,14 +1,14 @@
 {
   "name": "Core",
-  "duration": 600,
+  "rest_duration_in_sec": 15,
   "exercises": [
     {
       "name": "Plank",
-      "duration": 30
+      "duration_in_sec": 30
     },
     {
       "name": "Bicycle",
-      "duration": 30
+      "duration_in_sec": 20
     }
   ]
 }

@@ -1,12 +1,12 @@
 [
   {
     "name": "Back",
-    "duration": 600,
-    "file_name": "back.json"
+    "duration_in_min": 30,
+    "detailed_url": "https://github.com/nhu313/exercises/blob/master/back.json"
   },
   {
     "name": "Core",
-    "duration": 600,
-    "file_name": "core.json"
+    "duration_in_min": 20,
+    "detailed_url": "https://github.com/nhu313/exercises/blob/master/core.json"
   }
 ]
