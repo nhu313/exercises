@@ -1,11 +1,14 @@
 {
+  "id": 1111,
   "name": "Back",
   "exercises": [
     {
+      "id": 2222,
       "name": "Right side plank",
       "duration_in_sec": 6
     },
     {
+      "id": 2223,
       "name": "Left side plank",
       "duration_in_sec": 15
     }

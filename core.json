@@ -1,11 +1,14 @@
 {
+  "id": 1112,
   "name": "Core",
   "exercises": [
     {
+      "id": 3333,
       "name": "Plank",
       "duration_in_sec": 30
     },
     {
+      "id": 3334,
       "name": "Bicycle",
       "duration_in_sec": 20
     }

@@ -1,30 +1,36 @@
 [
   {
+    "id": 1111,
     "name": "Back",
     "duration_in_min": 30,
     "file_name": "back.json"
   },
   {
+    "id": 1112,
     "name": "Core",
     "duration_in_min": 32,
     "file_name": "core.json"
   },
   {
+    "id": 1113,
     "name": "Core1",
     "duration_in_min": 10,
     "file_name": "core.json"
   },
   {
+    "id": 1114,
     "name": "Core2",
     "duration_in_min": 20,
     "file_name": "core.json"
   },
   {
+    "id": 1115,
     "name": "Core3",
     "duration_in_min": 50,
     "file_name": "core.json"
   },
   {
+    "id": 1116,
     "name": "Core4",
     "duration_in_min": 30,
     "file_name": "core.json"
