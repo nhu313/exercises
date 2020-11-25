@@ -1,12 +1,32 @@
 [
   {
     "name": "Back",
-    "duration_in_min": 30,
-    "detailed_url": "https://github.com/nhu313/exercises/blob/master/back.json"
+    "duration": 30,
+    "file_name": "back.json"
   },
   {
     "name": "Core",
-    "duration_in_min": 20,
-    "detailed_url": "https://github.com/nhu313/exercises/blob/master/core.json"
+    "duration": 32,
+    "file_name": "core.json"
+  },
+  {
+    "name": "Core1",
+    "duration": 10,
+    "file_name": "core.json"
+  },
+  {
+    "name": "Core2",
+    "duration": 20,
+    "file_name": "core.json"
+  },
+  {
+    "name": "Core3",
+    "duration": 50,
+    "file_name": "core.json"
+  },
+  {
+    "name": "Core4",
+    "duration": 30,
+    "file_name": "core.json"
   }
 ]
