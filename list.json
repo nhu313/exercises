@@ -1,32 +1,32 @@
 [
   {
     "name": "Back",
-    "duration": 30,
+    "duration_in_min": 30,
     "file_name": "back.json"
   },
   {
     "name": "Core",
-    "duration": 32,
+    "duration_in_min": 32,
     "file_name": "core.json"
   },
   {
     "name": "Core1",
-    "duration": 10,
+    "duration_in_min": 10,
     "file_name": "core.json"
   },
   {
     "name": "Core2",
-    "duration": 20,
+    "duration_in_min": 20,
     "file_name": "core.json"
   },
   {
     "name": "Core3",
-    "duration": 50,
+    "duration_in_min": 50,
     "file_name": "core.json"
   },
   {
     "name": "Core4",
-    "duration": 30,
+    "duration_in_min": 30,
     "file_name": "core.json"
   }
 ]
