@@ -1,0 +1,51 @@
+{
+  "id": 1110,
+  "name": "Plank",
+  "exercises": [
+    {
+      "id": 1000,
+      "name": "plank",
+      "duration_in_sec": 45
+    },
+    {
+      "id": 10001,
+      "name": "break",
+      "duration_in_sec": 5
+    },
+    {
+      "id": 1001,
+      "name": "Left side plank",
+      "duration_in_sec": 45
+    },
+    {
+      "id": 10002,
+      "name": "break",
+      "duration_in_sec": 5
+    },
+    {
+      "id": 1002,
+      "name": "Right side plank",
+      "duration_in_sec": 45
+    },
+    {
+      "id": 10003,
+      "name": "break",
+      "duration_in_sec": 5
+    },
+    {
+      "id": 1003,
+      "name": "Full plank",
+      "duration_in_sec": 60
+    },
+    {
+      "id": 10004,
+      "name": "break",
+      "duration_in_sec": 5
+    },
+    {
+      "id": 1000,
+      "name": "plank",
+      "duration_in_sec": 45
+    }
+  ]
+}
