@@ -5,7 +5,7 @@
     {
       "id": 1000,
       "name": "plank",
-      "duration_in_sec": 45
+      "duration_in_sec": 60
     },
     {
       "id": 10001,
@@ -23,12 +23,31 @@
       "duration_in_sec": 5
     },
     {
+      "id": 10011,
+      "name": "Left leg raise plank",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 100012,
+      "name": "break",
+      "duration_in_sec": 5
+    },
+    {
       "id": 1002,
       "name": "Right side plank",
       "duration_in_sec": 45
     },
     {
       "id": 10003,
+      "name": "break",
+      "duration_in_sec": 5
+    },    {
+      "id": 100111,
+      "name": "Right leg raise plank",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 1000121,
       "name": "break",
       "duration_in_sec": 5
     },
@@ -38,14 +57,34 @@
       "duration_in_sec": 60
     },
     {
+      "id": 1000121,
+      "name": "break",
+      "duration_in_sec": 5
+    },
+    {
+      "id": 1002111,
+      "name": "Right hip dip plank",
+      "duration_in_sec": 45
+    },
+    {
+      "id": 100012,
+      "name": "break",
+      "duration_in_sec": 5
+    },
+    {
+      "id": 1002,
+      "name": "Left hip dip side plank",
+      "duration_in_sec": 45
+    },
+    {
       "id": 10004,
       "name": "break",
       "duration_in_sec": 5
     },
     {
       "id": 1000,
-      "name": "plank",
-      "duration_in_sec": 45
+      "name": "Plank",
+      "duration_in_sec": 30
     }
   ]
 }

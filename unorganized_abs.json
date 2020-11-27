@@ -1,0 +1,307 @@
+{
+  "id": 11101,
+  "name": "Abs",
+  "exercises": [
+    {
+      "id": 10,
+      "name": "Leg drop",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Bicycle",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 10,
+      "name": "Flutter kicks",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Right side plank",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 10,
+      "name": "Left side plank",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Reverse crunch",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Wipers",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 10,
+      "name": "Plank",
+      "duration_in_sec": 60
+    },
+    {
+      "id": 10,
+      "name": "Spiderman",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 15
+    },
+    {
+      "id": 10,
+      "name": "Crisscross crunch",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Scissors",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 10,
+      "name": "Superman",
+      "duration_in_sec": 15
+    },
+    {
+      "id": 10,
+      "name": "Banana",
+      "duration_in_sec": 15
+    },
+    {
+      "id": 10,
+      "name": "Superman",
+      "duration_in_sec": 15
+    },
+    {
+      "id": 10,
+      "name": "Banana",
+      "duration_in_sec": 15
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 10,
+      "name": "Heel tap",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "100 flap",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "In and out",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 10,
+      "name": "Left wing spread",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Right wing spread",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Reverse plank crab",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 10,
+      "name": "Right side plank pulse",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Left side plank pulse",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Plank with hip dips",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 10,
+      "name": "Up and down plank",
+      "duration_in_sec": 40
+    },
+    {
+      "id": 10,
+      "name": "Full plank",
+      "duration_in_sec": 50
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 10,
+      "name": "Inside heel touch crunch",
+      "duration_in_sec": 30
+    },
+
+
+
+
+
+
+
+
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+
+
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+
+
+
+
+
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 10,
+      "name": "Right side thread the needle",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Left side thread the needle",
+      "duration_in_sec": 30
+    },
+
+
+
+    {
+      "id": 10,
+      "name": "Right leg raise",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Left leg raise",
+      "duration_in_sec": 30
+    },
+
+
+
+    {
+      "id": 10,
+      "name": "Toe touch crunches",
+      "duration_in_sec": 30
+    },
+
+    {
+      "id": 10,
+      "name": "Leg wrap",
+      "duration_in_sec": 30
+    },
+
+
+    {
+      "id": 10,
+      "name": "Straight leg crunch",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Touch elbow plank",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "45 degree leg drop",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Outside heel touch crunch",
+      "duration_in_sec": 30
+    },
+
+
+    {
+      "id": 10,
+      "name": "Push up with left leg raise",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Push up with right leg raise",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Left knee touch plank",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Right knee touch plank",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Glute bridge",
+      "duration_in_sec": 30
+    }
+  ]
+}

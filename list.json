@@ -6,6 +6,12 @@
     "file_name": "plank.json"
   },
   {
+    "id": 11101,
+    "name": "Abs",
+    "duration_in_min": 15,
+    "file_name": "abs.json"
+  },
+  {
     "id": 1111,
     "name": "Back",
     "duration_in_min": 30,
