@@ -4,7 +4,48 @@
   "exercises": [
     {
       "id": 10,
-      "name": "Leg drop",
+      "name": "45 degree leg drop",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Flutter kicks",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 10,
+      "name": "Plank",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Right side plank",
+      "duration_in_sec": 30
+    },
+
+    {
+      "id": 10,
+      "name": "Left side plank",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 10,
+      "name": "Reverse crunch",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Wipers",
       "duration_in_sec": 30
     },
     {
@@ -19,48 +60,28 @@
     },
     {
       "id": 10,
-      "name": "Flutter kicks",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 10,
-      "name": "Right side plank",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 10,
-      "name": "Break",
-      "duration_in_sec": 10
-    },
-    {
-      "id": 10,
-      "name": "Left side plank",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 10,
-      "name": "Reverse crunch",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 10,
-      "name": "Wipers",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 10,
-      "name": "Break",
-      "duration_in_sec": 10
-    },
-    {
-      "id": 10,
       "name": "Plank",
       "duration_in_sec": 60
     },
     {
       "id": 10,
+      "name": "Full Plank",
+      "duration_in_sec": 60
+    },
+    {
+      "id": 10,
+      "name": "Break",
+      "duration_in_sec": 15
+    },
+    {
+      "id": 10,
       "name": "Spiderman",
       "duration_in_sec": 30
+    },
+    {
+      "id": 10,
+      "name": "Knee to elbow",
+      "duration_in_sec": 45
     },
     {
       "id": 10,
@@ -84,28 +105,8 @@
     },
     {
       "id": 10,
-      "name": "Superman",
-      "duration_in_sec": 15
-    },
-    {
-      "id": 10,
-      "name": "Banana",
-      "duration_in_sec": 15
-    },
-    {
-      "id": 10,
-      "name": "Superman",
-      "duration_in_sec": 15
-    },
-    {
-      "id": 10,
-      "name": "Banana",
-      "duration_in_sec": 15
-    },
-    {
-      "id": 10,
-      "name": "Break",
-      "duration_in_sec": 10
+      "name": "Superman and banana",
+      "duration_in_sec": 30
     },
     {
       "id": 10,
@@ -120,46 +121,6 @@
     {
       "id": 10,
       "name": "In and out",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 10,
-      "name": "Break",
-      "duration_in_sec": 10
-    },
-    {
-      "id": 10,
-      "name": "Left wing spread",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 10,
-      "name": "Right wing spread",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 10,
-      "name": "Reverse plank crab",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 10,
-      "name": "Break",
-      "duration_in_sec": 10
-    },
-    {
-      "id": 10,
-      "name": "Right side plank pulse",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 10,
-      "name": "Left side plank pulse",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 10,
-      "name": "Plank with hip dips",
       "duration_in_sec": 30
     },
     {
@@ -194,8 +155,8 @@
     },
     {
       "id": 10,
-      "name": "Break",
-      "duration_in_sec": 10
+      "name": "Bridge",
+      "duration_in_sec": 30
     }
   ]
 }
