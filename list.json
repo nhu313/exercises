@@ -1,5 +1,11 @@
 [
   {
+    "id": 1111,
+    "name": "Test",
+    "duration_in_min": 30,
+    "file_name": "test.json"
+  },
+  {
     "id": 1110,
     "name": "Plank",
     "duration_in_min": 5,
@@ -12,9 +18,9 @@
     "file_name": "abs.json"
   },
   {
-    "id": 1111,
+    "id": 111014,
     "name": "Back",
-    "duration_in_min": 30,
+    "duration_in_min": 15,
     "file_name": "back.json"
   },
   {
