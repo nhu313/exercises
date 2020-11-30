@@ -55,7 +55,7 @@
     {
       "id": 12011,
       "name": "Baby pose",
-      "duration_in_sec": 15
+      "duration_in_sec": 30
     },
     {
       "id": 12012,
@@ -64,36 +64,6 @@
     },
     {
       "id": 12013,
-      "name": "Break",
-      "duration_in_sec": 10
-    },
-    {
-      "id": 12014,
-      "name": "Squeeze shoulder blade",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 12015,
-      "name": "Backward head bend",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 12016,
-      "name": "Cobra",
-      "duration_in_sec": 10
-    },
-    {
-      "id": 12017,
-      "name": "Left side plank",
-      "duration_in_sec": 40
-    },
-    {
-      "id": 12018,
-      "name": "Right side plank",
-      "duration_in_sec": 40
-    },
-    {
-      "id": 12019,
       "name": "Break",
       "duration_in_sec": 10
     },
@@ -131,6 +101,41 @@
       "id": 12026,
       "name": "Full body right arm twist",
       "duration_in_sec": 15
+    },
+    {
+      "id": 120261111,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 12014,
+      "name": "Squeeze shoulder blade",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 12015,
+      "name": "Backward head bend",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 12016,
+      "name": "Cobra",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 12017,
+      "name": "Left side plank",
+      "duration_in_sec": 40
+    },
+    {
+      "id": 12018,
+      "name": "Right side plank",
+      "duration_in_sec": 40
+    },
+    {
+      "id": 12019,
+      "name": "Break",
+      "duration_in_sec": 10
     },
     {
       "id": 12027,

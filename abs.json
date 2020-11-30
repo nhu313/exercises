@@ -13,35 +13,9 @@
       "duration_in_sec": 30
     },
     {
-      "id": 103,
-      "name": "Break",
-      "duration_in_sec": 10
-    },
-    {
-      "id": 104,
-      "name": "Plank",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 105,
-      "name": "Right side plank",
-      "duration_in_sec": 30
-    },
-
-    {
-      "id": 106,
-      "name": "Left side plank",
-      "duration_in_sec": 30
-    },
-    {
       "id": 107,
       "name": "Break",
       "duration_in_sec": 10
-    },
-    {
-      "id": 108,
-      "name": "Reverse crunch",
-      "duration_in_sec": 30
     },
     {
       "id": 109,
@@ -51,6 +25,11 @@
     {
       "id": 1010,
       "name": "Bicycle",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 108,
+      "name": "Reverse crunch",
       "duration_in_sec": 30
     },
     {
@@ -74,14 +53,14 @@
       "duration_in_sec": 15
     },
     {
-      "id": 1015,
-      "name": "Spiderman",
-      "duration_in_sec": 30
-    },
-    {
       "id": 1016,
       "name": "Knee to elbow",
       "duration_in_sec": 45
+    },
+    {
+      "id": 1015,
+      "name": "Spiderman",
+      "duration_in_sec": 30
     },
     {
       "id": 1017,
@@ -157,6 +136,26 @@
       "id": 1031,
       "name": "Bridge",
       "duration_in_sec": 45
+    },
+    {
+      "id": 103,
+      "name": "Break",
+      "duration_in_sec": 10
+    },
+    {
+      "id": 104,
+      "name": "Plank",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 105,
+      "name": "Right side plank",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 106,
+      "name": "Left side plank",
+      "duration_in_sec": 30
     }
   ]
 }
