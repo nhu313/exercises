@@ -10,47 +10,47 @@
     {
       "id": 1202,
       "name": "Rock your knees",
-      "duration_in_sec": 15
+      "duration_in_sec": 30
     },
     {
       "id": 1203,
       "name": "Hug left leg",
-      "duration_in_sec": 5
+      "duration_in_sec": 10
     },
     {
       "id": 1204,
       "name": "Hug right leg",
-      "duration_in_sec": 5
+      "duration_in_sec": 10
     },
     {
       "id": 1205,
       "name": "Left leg twist",
-      "duration_in_sec": 10
+      "duration_in_sec": 15
     },
     {
       "id": 1206,
       "name": "Right leg twist",
-      "duration_in_sec": 10
+      "duration_in_sec": 15
     },
     {
       "id": 1207,
       "name": "Left leg twist",
-      "duration_in_sec": 10
+      "duration_in_sec": 15
     },
     {
       "id": 1208,
       "name": "Right leg twist",
-      "duration_in_sec": 10
+      "duration_in_sec": 15
     },
     {
       "id": 1209,
       "name": "Push left knee",
-      "duration_in_sec": 10
+      "duration_in_sec": 15
     },
     {
       "id": 12010,
       "name": "Push right knee",
-      "duration_in_sec": 10
+      "duration_in_sec": 15
     },
     {
       "id": 12011,
@@ -70,37 +70,37 @@
     {
       "id": 12020,
       "name": "Bird dog",
-      "duration_in_sec": 30
+      "duration_in_sec": 40
     },
     {
       "id": 12021,
       "name": "Cat/cow",
-      "duration_in_sec": 30
+      "duration_in_sec": 40
     },
     {
       "id": 12022,
       "name": "Arm thread",
-      "duration_in_sec": 30
+      "duration_in_sec": 40
     },
     {
       "id": 12023,
-      "name": "Full body left arm twist",
-      "duration_in_sec": 15
+      "name": "Inside pushup with left leg",
+      "duration_in_sec": 40
     },
     {
       "id": 12024,
-      "name": "Full body right arm twist",
-      "duration_in_sec": 15
+      "name": "Inside pushup with right leg",
+      "duration_in_sec": 40
     },
     {
       "id": 12025,
       "name": "Full body left arm twist",
-      "duration_in_sec": 15
+      "duration_in_sec": 30
     },
     {
       "id": 12026,
       "name": "Full body right arm twist",
-      "duration_in_sec": 15
+      "duration_in_sec": 30
     },
     {
       "id": 120261111,
@@ -120,7 +120,7 @@
     {
       "id": 12016,
       "name": "Cobra",
-      "duration_in_sec": 10
+      "duration_in_sec": 25
     },
     {
       "id": 12017,
@@ -138,19 +138,14 @@
       "duration_in_sec": 10
     },
     {
-      "id": 12027,
-      "name": "Standing side bend",
-      "duration_in_sec": 30
-    },
-    {
       "id": 12028,
       "name": "Side squat",
-      "duration_in_sec": 30
+      "duration_in_sec": 40
     },
     {
       "id": 12029,
       "name": "Touch toe squat",
-      "duration_in_sec": 30
+      "duration_in_sec": 40
     },
     {
       "id": 12030,
@@ -180,7 +175,7 @@
     {
       "id": 12035,
       "name": "Hold toe arch",
-      "duration_in_sec": 15
+      "duration_in_sec": 30
     }
   ]
 }

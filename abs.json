@@ -5,22 +5,7 @@
     {
       "id": 101,
       "name": "45 degree leg drop",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 102,
-      "name": "Flutter kicks",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 107,
-      "name": "Break",
-      "duration_in_sec": 10
-    },
-    {
-      "id": 109,
-      "name": "Wipers",
-      "duration_in_sec": 30
+      "duration_in_sec": 50
     },
     {
       "id": 1010,
@@ -30,6 +15,16 @@
     {
       "id": 108,
       "name": "Reverse crunch",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 1022,
+      "name": "Heel tap",
+      "duration_in_sec": 40
+    },
+    {
+      "id": 102,
+      "name": "Flutter kicks",
       "duration_in_sec": 30
     },
     {
@@ -65,7 +60,7 @@
     {
       "id": 1017,
       "name": "Break",
-      "duration_in_sec": 15
+      "duration_in_sec": 20
     },
     {
       "id": 1018,
@@ -88,11 +83,6 @@
       "duration_in_sec": 30
     },
     {
-      "id": 1022,
-      "name": "Heel tap",
-      "duration_in_sec": 30
-    },
-    {
       "id": 1023,
       "name": "100 flap",
       "duration_in_sec": 30
@@ -100,6 +90,11 @@
     {
       "id": 1024,
       "name": "In and out",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 10241,
+      "name": "Crab",
       "duration_in_sec": 30
     },
     {
@@ -118,9 +113,24 @@
       "duration_in_sec": 50
     },
     {
+      "id": 10271,
+      "name": "Side tap plank",
+      "duration_in_sec": 50
+    },
+    {
+      "id": 1027,
+      "name": "Right side plank",
+      "duration_in_sec": 40
+    },
+    {
+      "id": 1027,
+      "name": "Left side plank",
+      "duration_in_sec": 40
+    },
+    {
       "id": 1028,
       "name": "Break",
-      "duration_in_sec": 10
+      "duration_in_sec": 25
     },
     {
       "id": 1029,
@@ -130,11 +140,16 @@
     {
       "id": 1030,
       "name": "Toe touch crunches",
-      "duration_in_sec": 30
+      "duration_in_sec": 50
     },
     {
       "id": 1031,
       "name": "Bridge",
+      "duration_in_sec": 45
+    },
+    {
+      "id": 103111,
+      "name": "Toe touch crab",
       "duration_in_sec": 45
     },
     {
@@ -145,17 +160,17 @@
     {
       "id": 104,
       "name": "Plank",
-      "duration_in_sec": 30
+      "duration_in_sec": 50
     },
     {
       "id": 105,
       "name": "Right side plank",
-      "duration_in_sec": 30
+      "duration_in_sec": 40
     },
     {
       "id": 106,
       "name": "Left side plank",
-      "duration_in_sec": 30
+      "duration_in_sec": 40
     }
   ]
 }
