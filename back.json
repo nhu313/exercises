@@ -3,6 +3,11 @@
   "name": "Back",
   "exercises": [
     {
+      "id": 12111101,
+      "name": "Pelvic tilt",
+      "duration_in_sec": 40
+    },
+    {
       "id": 1201,
       "name": "Bridge",
       "duration_in_sec": 30
