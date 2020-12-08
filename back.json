@@ -90,12 +90,12 @@
     {
       "id": 12023,
       "name": "Inside pushup with left leg",
-      "duration_in_sec": 40
+      "duration_in_sec": 30
     },
     {
       "id": 12024,
       "name": "Inside pushup with right leg",
-      "duration_in_sec": 40
+      "duration_in_sec": 30
     },
     {
       "id": 12025,
@@ -118,14 +118,14 @@
       "duration_in_sec": 30
     },
     {
-      "id": 12015,
-      "name": "Backward head bend",
-      "duration_in_sec": 30
-    },
-    {
       "id": 12016,
       "name": "Cobra",
       "duration_in_sec": 25
+    },
+    {
+      "id": 12016122,
+      "name": "Cobra",
+      "duration_in_sec": 30
     },
     {
       "id": 12017,
@@ -136,6 +136,26 @@
       "id": 12018,
       "name": "Right side plank",
       "duration_in_sec": 40
+    },
+    {
+      "id": 12032,
+      "name": "Break",
+      "duration_in_sec": 30
+    },
+    {
+      "id": 12033,
+      "name": "Sit left side twist",
+      "duration_in_sec": 15
+    },
+    {
+      "id": 12034,
+      "name": "Sit right side twist",
+      "duration_in_sec": 15
+    },
+    {
+      "id": 12035,
+      "name": "Hold toe arch",
+      "duration_in_sec": 30
     },
     {
       "id": 12019,
@@ -160,26 +180,6 @@
     {
       "id": 12031,
       "name": "Right one leg stand",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 12032,
-      "name": "Break",
-      "duration_in_sec": 30
-    },
-    {
-      "id": 12033,
-      "name": "Sit left side twist",
-      "duration_in_sec": 15
-    },
-    {
-      "id": 12034,
-      "name": "Sit right side twist",
-      "duration_in_sec": 15
-    },
-    {
-      "id": 12035,
-      "name": "Hold toe arch",
       "duration_in_sec": 30
     }
   ]
