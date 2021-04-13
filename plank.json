@@ -28,14 +28,14 @@
       "duration_in_sec": 30
     },
     {
-      "id": 1000112361,
-      "name": "Hip dip plank",
-      "duration_in_sec": 30
-    },
-    {
       "id": 10001211,
       "name": "break",
       "duration_in_sec": 5
+    },
+    {
+      "id": 1000112361,
+      "name": "Hip dip plank",
+      "duration_in_sec": 30
     },
     {
       "id": 1000161,
