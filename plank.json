@@ -5,27 +5,27 @@
     {
       "id": 1000,
       "name": "plank",
-      "duration_in_sec": 55
+      "duration_in_sec": 30
     },
     {
       "id": 1001,
       "name": "Left side plank",
-      "duration_in_sec": 45
+      "duration_in_sec": 40
     },
     {
       "id": 1002,
       "name": "Right side plank",
-      "duration_in_sec": 45
+      "duration_in_sec": 40
     },
     {
       "id": 10011,
       "name": "Left leg raise plank",
-      "duration_in_sec": 30
+      "duration_in_sec": 20
     },
     {
       "id": 100111,
       "name": "Right leg raise plank",
-      "duration_in_sec": 30
+      "duration_in_sec": 20
     },
     {
       "id": 10001211,
@@ -38,14 +38,19 @@
       "duration_in_sec": 30
     },
     {
+      "id": 100045516,
+      "name": "Up and down plank",
+      "duration_in_sec": 30
+    },
+    {
       "id": 1000161,
       "name": "Spiderman plank",
       "duration_in_sec": 30
     },
     {
-      "id": 100045516,
-      "name": "Up and down plank",
+      "id": 100016114324,
+      "name": "plank",
       "duration_in_sec": 30
-    }
+    },
   ]
 }
